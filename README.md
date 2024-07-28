@@ -5,7 +5,7 @@
 ### Overview
 
 - Web application that allows users to identify digits captured within local images
-- Requires the Classification API and the Predictive Model to be running
+- Requires the Classification API web service and the Predictive Model web service to be running
 
 
 
