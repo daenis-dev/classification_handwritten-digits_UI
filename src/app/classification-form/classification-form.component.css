@@ -1,0 +1,15 @@
+.box-card {
+    width: 90px;
+    height: 90px;
+    justify-content: center;
+    text-align: center;
+    background-color: #f5f5f5; /* Light grey background */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow */
+  }
+  
+  .box-content {
+    font-size: 20px;
+    text-align: center;
+    color: #333; /* Dark text color */
+  }

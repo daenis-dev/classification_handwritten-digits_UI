@@ -11,10 +11,12 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatButtonModule } from '@angular/material/button';
 import { MatCardModule } from '@angular/material/card';
 import { AppComponent } from './app.component';
+import { ClassificationFormComponent } from './classification-form/classification-form.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ClassificationFormComponent
   ],
   imports: [
     BrowserModule,
